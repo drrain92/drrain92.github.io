@@ -1,9 +1,13 @@
----
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
